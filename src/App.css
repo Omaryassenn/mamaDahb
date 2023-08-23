@@ -62,12 +62,18 @@ a{
       height: auto;
     }
     p{
-      font-size: 1em;
+      padding-left: 10px;
+      padding-right: 10px;
+      font-size: 2em;
     }
     .first{
+      padding-bottom: 1rem;
       font-size: 2em;
     }
+    h1{
+      font-size: 4em;
+    }
     a{
-      font-size: 2em;
+      font-size: 1em;
     }
 }
