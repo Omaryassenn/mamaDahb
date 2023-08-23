@@ -10,3 +10,11 @@
 a{
     font-size:3em;
 }
+@media (max-width:768px){
+    p{
+        font-size:23px;
+    }
+    a{
+        font-size: 2em;
+    }
+}
