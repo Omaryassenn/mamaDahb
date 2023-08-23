@@ -24,7 +24,7 @@ function App() {
       واللوكيشن ميتوههش
       </p>
       <span>
-       <a href="https://maps.app.goo.gl/fkAfTUJuZvN4VfiV6">افتح اللوكيشن من هنا</a><p className='icon'>📍</p>
+       <a href="https://maps.app.goo.gl/fkAfTUJuZvN4VfiV6" target="_blank">افتح اللوكيشن من هنا</a><p className='icon'>📍</p>
       </span>
     </div>
     <p className='way'>
