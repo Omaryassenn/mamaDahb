@@ -29,11 +29,14 @@ h1{
   padding-top: 1rem;
   text-align: center;
   font-size: 3em;
+  margin: .5rem;
 }
 p{
   padding-top: 1rem;
   text-align: center;
   font-size: 3em;
+ 
+
 }
 a{
   font-size: 4em;
@@ -52,4 +55,19 @@ a{
 ::-webkit-scrollbar-thumb {
   background-color: #96446E;
   border-radius: 5px;
+}
+@media (max-width: 768px) {
+    .mam{
+      width: 30vw;
+      height: auto;
+    }
+    p{
+      font-size: 1em;
+    }
+    .first{
+      font-size: 2em;
+    }
+    a{
+      font-size: 2em;
+    }
 }

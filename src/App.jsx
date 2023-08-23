@@ -13,7 +13,7 @@ function App() {
       }}
     >
       <h1>ماما دهب</h1>
-    <img src={mama} style={{
+    <img className='mam' src={mama} style={{
       position: 'fixed',
       bottom: '0',
       right: '0'
