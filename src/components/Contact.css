@@ -1,0 +1,9 @@
+.contact{
+    padding: 1rem;
+    background-color: rgba(108, 103, 103, 0.284);
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

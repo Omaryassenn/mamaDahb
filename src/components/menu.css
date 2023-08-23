@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    overflow-x: hidden;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
