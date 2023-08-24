@@ -30,9 +30,9 @@ Start the server
   npm run dev
 ```
 # Screenshots
-!(https://imgur.com/a/1ybmZYR)
-!(https://imgur.com/NGDdHZf)
-!(https://imgur.com/J0mG9Ng)
+![1](https://imgur.com/a/1ybmZYR)
+![2](https://imgur.com/NGDdHZf)
+![3](https://imgur.com/J0mG9Ng)
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
