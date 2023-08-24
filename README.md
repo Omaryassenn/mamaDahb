@@ -15,7 +15,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Fetching_info
+  cd mamaDahb
 ```
 
 Install dependencies
